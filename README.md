@@ -2,7 +2,7 @@
 
 This repository contains the code and data used in the paper:
 
-**"A Linear Programming Approach to Optimize Bangkok's Hospital Resources for Equity"**
+**"A Linear Programming Approach to Optimize Bangkok's Hospitals' Resources for Equity"**
 
 ---
 
