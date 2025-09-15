@@ -1,0 +1,161 @@
+Hospital ID,Hospital Name,District,District ID,Latitude,Longitude,Doctor Count,Inpatient Beds
+H_001,B.Care Medical Center,Sai Mai,D_39,13.943733582318,100.624583473904,112,136
+H_002,Bangkok Adventist (Mission) Hospital,Dusit,D_18,13.757888628682,100.519480866138,131,120
+H_003,Bangkok Christian Hospital,Bang Rak,D_09,13.728232581846,100.531269730187,345,244
+H_004,Bangkok Hospital,Huai Khwang,D_19,13.748838615146,100.583190687410,1293,263
+H_005,Bangmod Hospital,Chom Thong,D_15,13.671776486722,100.456458537301,32,203
+H_006,Bangna 1 Hospital,Bang Na,D_07,13.666818140306,100.635506091164,76,101
+H_007,Bangpakok 1 Hospital,Rat Burana,D_37,13.678902637664,100.498907537301,92,175
+H_008,Bangpakok 8 Hospital,Bang Bon,D_01,13.663205611950,100.406899937301,28,120
+H_009,Bangpakok 9 International Hospital,Chom Thong,D_15,13.681876135502,100.474597966136,200,200
+H_010,Bangphai Hospital,Phasi Charoen,D_31,13.725078499069,100.464803079630,43,100
+H_011,Bangpo General Hospital,Bang Sue,D_10,13.807021505427,100.523244379632,24,100
+H_012,BMA General Hospital (Klang Hospital),Pom Prap Sattru Phai,D_35,13.746551110762,100.509314386506,141,452
+H_013,BMA Lat Krabang Hospital,Lat Krabang,D_25,13.722391233896,100.783931084657,45,60
+H_014,BNH Hospital,Bang Rak,D_09,13.724911099106,100.535021694973,311,86
+H_015,Boonyavej Hospital,Bang Khae,D_03,13.709370202571,100.386302194972,8,29
+H_016,Bumrungrad International Hospital,Watthana,D_49,13.746063132893,100.552682074330,1217,580
+H_017,Burachat Chaiyakorn Hospital,Ratchathewi,D_38,13.752265631904,100.551723728835,6,60
+H_018,Camillian Hospital,Watthana,D_49,13.739285208508,100.583639679631,81,120
+H_019,CGH Hospital,Bang Khen,D_04,13.889044031981,100.606795037304,80,120
+H_020,CGH Hospital Saimai,Sai Mai,D_39,13.924195013634,100.684132108469,68,100
+H_021,Chaophya Hospital,Bangkok Noi,D_11,13.780461126650,100.470562179631,251,200
+H_022,Charoenkrung Pracharak Hospital,Bang Kho Laem,D_05,13.694013907359,100.494565426986,135,434
+H_023,Chulabhorn Hospital,Lak Si,D_24,13.881330686534,100.578473937304,213,500
+H_024,Hua Chiew Hospital,Pom Prap Sattru Phai,D_35,13.750134393476,100.515422823809,50,338
+H_025,IMH Silom Hospital,Bang Rak,D_09,13.725298399479,100.519310975107,27,132
+H_026,IMH Thonburi Hospital,Rat Burana,D_37,13.677687168165,100.498565054304,14,100
+H_027,Intrarat Hospital,Khan Na Yao,D_20,13.830383611063,100.671847294975,76,82
+H_028,Kasemrad Hospital Bangkae,Bang Khae,D_03,13.710663102283,100.398654052644,27,311
+H_029,Kasemrad Hospital Prachachuen,Bang Sue,D_10,13.831737722022,100.538898866139,114,362
+H_030,Kasemrad Hospital Ramkhamhaeng,Saphan Sung,D_41,13.779672226523,100.676294511594,75,139
+H_031,King Chulalongkorn Memorial Hospital,Pathum Wan,D_30,13.732428220216,100.536096352644,743,1442
+H_032,Klongtun Hospital,Huai Khwang,D_19,13.742088740808,100.594516852097,21,139
+H_033,Kluaynamthai Hospital,Khlong Toei,D_23,13.713982755598,100.587651752644,80,160
+H_034,Ladprao General Hospital,Wang Thonglang,D_48,13.778206189141,100.623870171660,192,180
+H_035,Lerdsin Hospital,Bang Rak,D_09,13.722212033908,100.517379471164,131,615
+H_036,Luang Phor Taweesak Chutinataro Uthit Hospital,Nong Khaem,D_29,13.656037414924,100.345192786506,52,154
+H_037,Mali Interdisciplinary Hospital,Bang Bon,D_01,13.672961311555,100.424196213493,27,30
+H_038,MedPark Hospital,Khlong Toei,D_23,13.721823777170,100.556293781480,611,239
+H_039,Mitrpracha Hospital,Phasi Charoen,D_31,13.712071169811,100.431861967838,28,148
+H_040,Mongkutwattana Hospital,Lak Si,D_24,13.894130341778,100.561687128835,213,100
+H_041,Nakornthon Hospital,Bang Khun Thian,D_06,13.660671687334,100.434175313493,315,150
+H_042,Nan Ah Hospital,Khlong San,D_22,13.731498166457,100.495105913493,15,30
+H_043,Navaminthra Hospital,Min Buri,D_27,13.811221406513,100.721604244900,18,180
+H_044,Navavej International Hospital,Bueng Kum,D_13,13.816886445965,100.643397428835,130,99
+H_045,Nawamin 9 Hospital,Min Buri,D_27,13.811357327950,100.723819973013,167,245
+H_046,Nopparat Rajathanee Hospital,Khan Na Yao,D_20,13.817400390819,100.688039928835,100,542
+H_047,Paolo Memorial Hospital Chokchai 4,Lat Phrao,D_26,13.801943266690,100.596169457671,39,140
+H_048,Paolo Memorial Hospital Kaset,Chatuchak,D_14,13.835473996553,100.574122426986,82,162
+H_049,Petcharavej Hospital,Huai Khwang,D_19,13.742724354235,100.594851328835,30,200
+H_050,Phaetpanya Hospital,Suan Luang,D_43,13.743909732461,100.607431200000,5,125
+H_051,Phyathai 1 Hospital,Ratchathewi,D_38,13.756262325589,100.539404747335,359,174
+H_052,Phyathai 2 Hospital,Phaya Thai,D_32,13.770456909393,100.540957394973,691,260
+H_053,Phyathai 3 Hospital,Phasi Charoen,D_31,13.723004254388,100.464021750795,393,230
+H_054,Phyathai Nawamin Hospital,Bueng Kum,D_13,13.825420071089,100.657636980670,78,140
+H_055,Phyathai Phaholyothin Hospital,Phaya Thai,D_32,13.792121368225,100.549510442328,347,220
+H_056,Piyavate Hospital,Huai Khwang,D_19,13.753403029086,100.580095423809,190,150
+H_057,PMG Hospital,Bang Khun Thian,D_06,13.651734890050,100.421980242328,27,109
+H_058,Praram 9 Hospital,Huai Khwang,D_19,13.753086150348,100.571019294973,460,166
+H_059,Prasarnmit Hospital,Phaya Thai,D_32,13.784705609912,100.546179299999,13,100
+H_060,Rajavithi Hospital,Ratchathewi,D_38,13.764380555482,100.536849244177,200,"1,200"
+H_061,Rajburana Hospital,Rat Burana,D_37,13.677887536857,100.502859000000,66,120
+H_062,Ramathibodi Hospital,Ratchathewi,D_38,13.766110351632,100.526736942328,993,"1,078"
+H_063,Ramkhamhaeng 2 Hospital,Saphan Sung,D_41,13.792429248697,100.704621328835,41,79
+H_064,Ramkhamhaeng Hospital,Bang Kapi,D_02,13.761461431289,100.636155300000,312,486
+H_065,Ratchaphiphat Hospital,Bang Khae,D_03,13.730932333327,100.366854157671,51,151
+H_066,Rattanapracharak Hospital,Khlong Sam Wa,D_21,13.909843721323,100.753043373013,26,250
+H_067,Ruamjairak Hospital,Phra Khanong,D_33,13.693517759698,100.601688884657,60,100
+H_068,Saint Louis Hospital,Sathon,D_42,13.719180147819,100.525279501848,374,387
+H_069,Samitivej Chinatown Hospital,Samphanthawong,D_40,13.737880096212,100.512590537302,92,31
+H_070,Samitivej Srinakarin Hospital,Suan Luang,D_43,13.748660050943,100.638675466138,305,154
+H_071,Samitivej Sukhumvit Hospital,Watthana,D_49,13.734924796872,100.576601952644,491,275
+H_072,Samitivej Thonburi Hospital,Thon Buri,D_46,13.714255259219,100.489876113117,146,150
+H_073,Sanisa Hospital (ศณิสา),Lak Si,D_24,13.854107841799,100.551625913493,9,30
+H_074,Sikarin Hospital,Bang Na,D_07,13.654751117570,100.646458301848,344,354
+H_075,Sirindhorn Hospital,Prawet,D_36,13.718028102564,100.707201373013,177,318
+H_076,Siriraj Hospital ,Bangkok Noi,D_11,13.756821809390,100.483497864669,"1,143","2,085"
+H_077,Siriraj Piyamaharajkarun Hospital,Bangkok Noi,D_11,13.759922373250,100.485654886506,770,280
+H_078,Somdech Phra Pinklao Hospital,Thon Buri,D_46,13.710124011571,100.486858086506,157,412
+H_079,Srisawan Bangkok Hospital Ratchaphruek,Taling Chan,D_44,13.787240049276,100.446192442328,93,58
+H_080,Sukhumvit Hospital,Watthana,D_49,13.718827070679,100.587640915342,310,150
+H_081,Suksawat Hospital,Rat Burana,D_37,13.676127636974,100.501114828835,21,100
+H_082,SYH Hospital,Bang Khen,D_04,13.882256723184,100.607662686506,4,6
+H_083,Synphaet Hospital,Khan Na Yao,D_20,13.834206873585,100.666463328835,219,287
+H_084,Synphaet Serirak Hospital,Min Buri,D_27,13.811022565270,100.717475200000,127,238
+H_085,Synphaet Srinakarin Hospital,Prawet,D_36,13.678575234980,100.648344555822,120,110
+H_086,Taksin Hospital,Khlong San,D_22,13.730480711119,100.508675986506,280,473
+H_087,Thainakarin Hospital,Bang Na,D_07,13.667737312596,100.638421855822,411,190
+H_088,Theptarin Hospital,Khlong Toei,D_23,13.714595634416,100.576781573013,98,80
+H_089,Thian Fah Foundation Hospital,Samphanthawong,D_40,13.738203154738,100.512203128835,8,60
+H_090,Thonburi Bamrungmuang Hospital,Pom Prap Sattru Phai,D_35,13.750532405998,100.514557931704,265,127
+H_091,Thonburi Hospital,Bangkok Noi,D_11,13.752835423081,100.479863471164,512,435
+H_092,Thonburi Thawiwatthana Hospital,Thawi Watthana,D_45,13.783249490056,100.400868186506,238,95
+H_093,Vajira Hospital,Dusit,D_18,13.780552166544,100.509188216506,197,740
+H_094,Vejthani Hospital,Bang Kapi,D_02,13.771951812162,100.636988844177,465,263
+H_095,Vibharam Hospital,Suan Luang,D_43,13.734749577171,100.645377771164,90,150
+H_096,Vibhavadi Hospital,Chatuchak,D_14,13.846156308538,100.562170586506,373,258
+H_097,Vichaivej International Hospital Nongkhaem,Nong Khaem,D_29,13.707495158148,100.360666171164,86,118
+H_098,Vichaivej Yaekfaichai Hospital,Bangkok Noi,D_11,13.755862410554,100.469576528835,28,49
+H_099,Vichaiyut Hospital,Phaya Thai,D_32,13.783201451025,100.533704657192,456,321
+H_100,Vimut Hospital,Phaya Thai,D_32,13.788858488374,100.548089842328,191,100
+H_101,Yanhee Hospital,Bang Phlat,D_08,13.799529967067,100.511603986506,270,400
+,BMA Bang Na Hospital,Bang Na,,13.68003221,100.5922199,,324
+,Port Authority of Thailand Hospital,,,,,,
+,Sukavej Hospital,Wang Thonglang,,,,,30
+,Priest Hospital,Ratchathewi,,13.76172473,100.5269917,,
+,Serene Hospital,,,,,,30
+,Sirinart Buengkum Hospital,,,,,,
+,Metropolitan Electricity Authority Hospital,Dusit,,,,,80
+,Mae Fah Luang University Hospital,Watthana,,,,,
+,Bangkok Naval Hospital,,,,,,
+,Bhumibol Adulyadej Hospital,,,,,,
+,Royal Thai Air Force Hospital,,,,,,
+,Chersery Home,,,,,,
+,Golden Years Hospital,,,,,,60
+,Humantouch Hospital,,,,,,1
+,Jetanin Institute for Assisted Reproduction,,,,,,
+,KMB Hospital,,,,,,4
+,Kwongsiew Foundation Hospital,,,,,,
+,Passarapiban Nursing Home,,,,,,
+,Asoke Skin Hospital,,,,,,
+,Asoke Skin Hospital Pinklao Branch,,,,,,
+,Bangkok Cancer Specialised Hospital,,,,,,
+,Bangkok Heart Hospital,,,,,,
+,Bangkok International Dental Hospital,,,,,,
+,Bangkok International Hospital,,,,,,
+,Bhumirajanakarindra Kidney Institute Hospital,,,,,,
+,Central Correctional Hospital,,,,,,
+,Dental Hospital,,,,,,
+,Eye Ear Nose Throat Hospital,,,,,,
+,Institute of Dermatology,,,,,,
+,Institute of Pathology ????,,,,,,
+,Kamol Cosmetic Hospital,,,,,,
+,Milada Cosmetic Surgery Hospital,,,,,,
+,National Cancer Institute,,,,,,
+,Neurological Institute of Thailand,,,,,,227
+,Rutnin Eye Hospital,,,,,,
+,S Spine and Nerve Hospital,,,,,,
+,Thai Eye Center Rama 3,,,,,,
+,Thailand Tobacco Monopoly Hospital,,,,,,
+,W Plastic Surgery Hospital,,,,,,
+,Wansiri Aesthetic Hospital,,,,,,
+,Wattanosoth Cancer Hospital,,,,,,
+,Wattanosoth Cancer International Hospital,,,,,,
+,SLC Hospital,,,,,,
+,Manarom Hospital,,,,,,
+,Masterpiece Hospital,,,,,,
+,Chiva Transitional Care,,,,,,
+,KDMS Hospital,,,,,,
+,WIH International Hospital,,,,,,
+,Bang Khun Thian Geriatric Hospital,,,,,,
+,Kluaynamthai 2 Geriatric Hospital,,,,,,90
+,Phim Hospital,,,,,,26
+,Pink Park Village,,,,,,
+,Praram 9 Medical Center,,,,,,38
+,Queen Sirikit National Institute of Child Health,,,,,,
+,Synphaet Children's Hospital,,,,,,59
+,The Senior Health Care,,,,,,
+,The Senior Health Care Ratchayothin,,,,,,
+,Namarak Hospital,,,,,,
+,Veterans General Hospital,,,,,,500
