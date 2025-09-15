@@ -13,7 +13,7 @@ This project applies **multi-integer linear programming** to examine how doctors
 - District-level population and vulnerability indices (CVI)  
 - Accessibility thresholds based on distance  
 - Resource conservation and capacity expansion limits  
-- Doctor-to-bed ratio constraints  
+- Doctor-to-bed ratio constraints
 
 The optimization results identify "hub hospitals" and suggest strategies for reducing inequities in access.
 
@@ -28,7 +28,7 @@ This project contains 2 datasets and 3 coding files.
 - Distance Hospital and District.py # Computes distance matrix between hospitals and districts
 - Optimization Model (All).py # MILP optimization model for resource allocation
 
-Note: Hospital names and identifiers have been removed to protect sensitive information. Data is aggregated and anonymized. Original raw data can be accessed from official public sources (Bangkok Metropolitan Administration, Thailand Ministry of Public Health). This repository only provides processed, anonymized datasets to ensure reproducibility without revealing sensitive details.
+Note: Data was publicly gathered from Thailand's official ministries, and individual hospital websites.
 
 ---
 
